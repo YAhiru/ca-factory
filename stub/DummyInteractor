@@ -1,0 +1,12 @@
+<?php
+declare(strict_types=1);
+
+namespace DummyNamespace;
+
+final class DummyInteractor implements DummyUseCase
+{
+    public function run(DummyRequest $request): DummyResponse
+    {
+        //
+    }
+}

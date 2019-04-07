@@ -1,0 +1,8 @@
+<?php
+declare(strict_types=1);
+
+return [
+    'base_path' => '__BASE_PATH__',
+
+    'namespace' => '__NAMESPACE__',
+];
